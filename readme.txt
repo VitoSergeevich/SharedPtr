@@ -1,1 +1,1 @@
-Реализация SharedPtr 
+SharedPtr 
